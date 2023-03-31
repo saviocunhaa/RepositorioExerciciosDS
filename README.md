@@ -1,6 +1,6 @@
 
 <h1 align="center"> REPOSITORIO CURSO DESENVOMVIMENTO DE SISTEMAS 2º ANO 2023.1</h1>
-<h2 align="center"> DICIPLINA - PROGRAMAÇÃO WEB </h2>
+<h2 align="center"> DISCIPLINA - PROGRAMAÇÃO WEB </h2>
 <p align="center">
 Disciplina ministrada pelo Prof. Sávio Cunha na EEEP Professor Sebastião Vasconcelos Sobrinho da cidade de Tianguá - CE. 
 
