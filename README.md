@@ -30,50 +30,50 @@ Projeto desenvolvido para incentivar o uso do github de forma mais prática, tod
 
 ## 🔖 REPOSITORIOS ALUNOS
 
-https://github.com/Adrielio
-https://github.com/lila1415
-https://github.com/LirouBruno
-https://github.com/BrunoVieira9
-https://github.com/caiopassoss
-https://github.com/clarafelix111
-https://github.com/CHSA4064
-https://github.com/Ruan789/
-https://github.com/davisilvasouza
-https://github.com/deborasilvaaa
-https://github.com/Edsonceo
-https://github.com/EMANUELLEVI10
-https://github.com/felipefg4
-https://github.com/allanmoura000
-https://github.com/gab0wn7
-https://github.com/G4bri3lsilva
-https://github.com/Galamiel
-https://github.com/hykaurus
-https://github.com/IagoRocha987
-https://github.com/inacioX15
-https://github.com/DoutorSalv
-https://github.com/jojodkks
-https://github.com/gabrieeelll
-https://github.com/joaojairo
-https://github.com/juraclucas
-https://github.com/Kaykjosea
-https://github.com/KemeleClara
-https://github.com/l-arthu
-https://github.com/Ediger123
-https://github.com/luiseduardomelofurta
-https://github.com/magielia
-https://github.com/Mariaritabr
-https://github.com/vitorialima8
-https://github.com/Palomalindinha01
-https://github.com/YHenriquee
-https://github.com/PaulMascarenhas
-https://github.com/cttal
-https://github.com/lyviathan-exe
-https://github.com/ramundongogo
-https://github.com/samaraportela
-https://github.com/sophialimaam
-https://github.com/TamiresDS
-https://github.com/Medeiros2006
-https://github.com/YasmimLinharesTomaz
+https://github.com/Adrielio <br>
+https://github.com/lila1415 <br>
+https://github.com/LirouBruno <br>
+https://github.com/BrunoVieira9 <br>
+https://github.com/caiopassoss <br>
+https://github.com/clarafelix111 <br>
+https://github.com/CHSA4064 <br>
+https://github.com/Ruan789/ <br>
+https://github.com/davisilvasouza <br>
+https://github.com/deborasilvaaa <br>
+https://github.com/Edsonceo <br>
+https://github.com/EMANUELLEVI10 <br>
+https://github.com/felipefg4 <br>
+https://github.com/allanmoura000 <br>
+https://github.com/gab0wn7 <br>
+https://github.com/G4bri3lsilva <br>
+https://github.com/Galamiel <br>
+https://github.com/hykaurus <br>
+https://github.com/IagoRocha987 <br>
+https://github.com/inacioX15 <br>
+https://github.com/DoutorSalv <br>
+https://github.com/jojodkks <br>
+https://github.com/gabrieeelll <br>
+https://github.com/joaojairo <br>
+https://github.com/juraclucas <br>
+https://github.com/Kaykjosea <br>
+https://github.com/KemeleClara <br>
+https://github.com/l-arthu <br>
+https://github.com/Ediger123 <br>
+https://github.com/luiseduardomelofurta <br>
+https://github.com/magielia <br>
+https://github.com/Mariaritabr <br>
+https://github.com/vitorialima8 <br>
+https://github.com/Palomalindinha01 <br>
+https://github.com/YHenriquee <br>
+https://github.com/PaulMascarenhas <br>
+https://github.com/cttal <br>
+https://github.com/lyviathan-exe <br>
+https://github.com/ramundongogo <br>
+https://github.com/samaraportela <br>
+https://github.com/sophialimaam <br>
+https://github.com/TamiresDS <br>
+https://github.com/Medeiros2006 <br>
+https://github.com/YasmimLinharesTomaz <br>
 
 ## :memo: Licença
 
