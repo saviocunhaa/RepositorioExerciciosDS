@@ -29,6 +29,7 @@ Os Projetos foram desenvolvido com as seguintes tecnologias:
 link para desafios: https://www.figma.com/file/2eAXOMLIAKzU1NLCI2SYHT/DESAFIOS?type=design&node-id=0%3A1&t=OcDwNMMnx0tIY2AD-1
 
 DESAFIO 01 - https://github.com/saviocunhaa/desafio01-aulaPSVS
+DESAFIO 02 - https://github.com/saviocunhaa/Desafio02-aulapsvs
 
 
 Projeto desenvolvido para incentivar o uso do github de forma mais prática, todas as atividades desse repositorio será corrigida apenas nos repositorio dos alunos...
