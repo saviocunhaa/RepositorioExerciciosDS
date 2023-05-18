@@ -33,6 +33,11 @@ DESAFIO 02 - https://github.com/saviocunhaa/Desafio02-aulapsvs <br>
 DESAFIO 03 - https://github.com/saviocunhaa/desafio03-aulapsvs <br>
 DESAFIO 04 -  https://github.com/saviocunhaa/desafio04-psvs <br>
 
+## DESAFIOS JAVASCRIPT
+
+DESAFIO JS - https://github.com/saviocunhaa/DesafioJS-psvs
+
+<br>
 Projeto desenvolvido para incentivar o uso do github de forma mais prática, todas as atividades desse repositorio será corrigida apenas nos repositorio dos alunos...
 
 ## 🔖 REPOSITORIOS ALUNOS
