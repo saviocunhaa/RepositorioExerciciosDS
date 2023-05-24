@@ -35,7 +35,8 @@ DESAFIO 04 -  https://github.com/saviocunhaa/desafio04-psvs <br>
 
 ## DESAFIOS JAVASCRIPT
 
-DESAFIO JS - https://github.com/saviocunhaa/DesafioJS-psvs
+DESAFIO JS 01 - https://github.com/saviocunhaa/DesafioJS-psvs
+DESAFIO JS 02 - https://github.com/saviocunhaa/TesteJS-PSVS
 
 <br>
 Projeto desenvolvido para incentivar o uso do github de forma mais prática, todas as atividades desse repositorio será corrigida apenas nos repositorio dos alunos...
