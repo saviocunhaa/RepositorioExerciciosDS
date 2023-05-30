@@ -38,6 +38,13 @@ DESAFIO 04 -  https://github.com/saviocunhaa/desafio04-psvs <br>
 DESAFIO JS 01 - https://github.com/saviocunhaa/DesafioJS-psvs <br>
 DESAFIO JS 02 - https://github.com/saviocunhaa/TesteJS-PSVS
 
+## DESAFIOS CRIAÇÃO PROJETOS EQUIPE
+
+LINK PARA AUXILIO 01: https://www.youtube.com/watch?v=akQNOGDMSIU <BR>
+LINK PARA AUXILIO 02: https://www.youtube.com/watch?v=lpSgnOdSLYg&list=PLTLAlheiUm5EohFD_1TDCpYkEvLKNWCV8
+
+
+
 <br>
 Projeto desenvolvido para incentivar o uso do github de forma mais prática, todas as atividades desse repositorio será corrigida apenas nos repositorio dos alunos...
 
